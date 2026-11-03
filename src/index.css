@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  :focus-visible {
+    outline-color: #047857;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@layer components {
+  /* Nút có vệt sáng lướt qua khi rê chuột */
+  .btn-shine {
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
+  }
+  .btn-shine::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: linear-gradient(110deg, transparent 30%, rgb(255 255 255 / 0.35) 50%, transparent 70%);
+    transform: translateX(-120%);
+    transition: transform 700ms ease;
+  }
+  .btn-shine:hover::after,
+  .btn-shine:focus-visible::after {
+    transform: translateX(120%);
+  }
+
+  /* Nền chấm bi mờ trang trí */
+  .bg-dots {
+    background-image: radial-gradient(rgb(255 255 255 / 0.12) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+}

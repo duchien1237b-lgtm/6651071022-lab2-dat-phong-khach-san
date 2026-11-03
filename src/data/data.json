@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "song-han-riverside-hotel",
+    "name": "Sông Hàn Riverside Hotel",
+    "type": "hotel",
+    "city": "Đà Nẵng",
+    "area": "Sơn Trà",
+    "address": "Sơn Trà, Đà Nẵng",
+    "stars": 4,
+    "pricePerNight": 1250000,
+    "rating": 4.7,
+    "reviewCount": 812,
+    "description": "Khách sạn 4 sao nằm ngay bờ sông Hàn, nhìn thẳng ra cầu Rồng. Tầng thượng có hồ bơi vô cực và quầy bar ngắm pháo hoa, chỉ 5 phút đi bộ tới chợ đêm Sơn Trà.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bữa sáng",
+      "Lễ tân 24/7",
+      "Đưa đón sân bay",
+      "Phòng gym"
+    ],
+    "tags": [
+      "View sông",
+      "Gần trung tâm"
+    ],
+    "images": [
+      "1566073771259-6a8506099945",
+      "1582719478250-c89cae4dc85b",
+      "1618773928121-c32242e63f39",
+      "1445019980597-93fa8acb246c"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1250000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1400000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2060000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 4,
+        "date": "2026-01-01",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      },
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 5,
+        "date": "2026-02-08",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 5,
+        "date": "2026-03-15",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "my-khe-ocean-pearl",
+    "name": "Mỹ Khê Ocean Pearl",
+    "type": "hotel",
+    "city": "Đà Nẵng",
+    "area": "Ngũ Hành Sơn",
+    "address": "Ngũ Hành Sơn, Đà Nẵng",
+    "stars": 5,
+    "pricePerNight": 1890000,
+    "rating": 4.8,
+    "reviewCount": 1204,
+    "description": "Resort 5 sao đối diện bãi biển Mỹ Khê với 180 phòng hướng biển, spa trị liệu kiểu Việt và nhà hàng hải sản trên cát. Lựa chọn lý tưởng cho gia đình và cặp đôi.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Spa",
+      "Bữa sáng",
+      "Bãi biển riêng",
+      "Nhà hàng"
+    ],
+    "tags": [
+      "Sát biển",
+      "Gia đình"
+    ],
+    "images": [
+      "1542314831-068cd1dbfeeb",
+      "1590490360182-c33d57733427",
+      "1578683010236-d716f9a3f461",
+      "1564501049412-61c2a3083791"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1890000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 2120000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 3120000
+      },
+      {
+        "id": "r4",
+        "name": "Suite hướng toàn cảnh",
+        "bed": "1 giường King + sofa",
+        "capacity": 3,
+        "size": 60,
+        "price": 4350000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 5,
+        "date": "2026-02-04",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 5,
+        "date": "2026-03-11",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 4,
+        "date": "2026-04-18",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "pho-co-lantern-homestay",
+    "name": "Phố Cổ Lantern Homestay",
+    "type": "homestay",
+    "city": "Hội An",
+    "area": "Minh An",
+    "address": "Minh An, Hội An",
+    "stars": 0,
+    "pricePerNight": 360000,
+    "rating": 4.9,
+    "reviewCount": 356,
+    "description": "Ngôi nhà gỗ hơn 80 năm tuổi được chủ nhà phục dựng, cách chùa Cầu 300m. Buổi tối bạn có thể cùng gia đình chủ nhà làm đèn lồng và thưởng thức cao lầu tự nấu.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Cho thuê xe đạp",
+      "Điều hòa",
+      "Sân vườn"
+    ],
+    "tags": [
+      "Phố cổ",
+      "Trải nghiệm địa phương"
+    ],
+    "images": [
+      "1499793983690-e29da59ef1c2",
+      "1618773928121-c32242e63f39",
+      "1513694203232-719a280e022f",
+      "1595576508898-0ad5c879a061"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 650000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 910000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng tập thể (dorm)",
+        "bed": "4 giường tầng",
+        "capacity": 4,
+        "size": 30,
+        "price": 360000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 5,
+        "date": "2026-03-07",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      },
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 4,
+        "date": "2026-04-14",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 5,
+        "date": "2026-05-21",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "an-bang-coconut-villa",
+    "name": "An Bàng Coconut Villa",
+    "type": "homestay",
+    "city": "Hội An",
+    "area": "Cẩm An",
+    "address": "Cẩm An, Hội An",
+    "stars": 0,
+    "pricePerNight": 980000,
+    "rating": 4.6,
+    "reviewCount": 214,
+    "description": "Biệt thự nhỏ giữa vườn dừa, đi bộ 3 phút ra biển An Bàng. Có bếp chung, hồ bơi muối và võng nằm dưới tán dừa, rất hợp cho nhóm bạn muốn tách khỏi phố đông.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bếp chung",
+      "Cho thuê xe đạp",
+      "Chỗ đỗ xe"
+    ],
+    "tags": [
+      "Gần biển",
+      "Yên tĩnh"
+    ],
+    "images": [
+      "1522708323590-d24dbb6b0267",
+      "1578683010236-d716f9a3f461",
+      "1484154218962-a197022b5858",
+      "1591088398332-8a7791972843"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 980000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 1370000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 4,
+        "date": "2026-04-10",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 5,
+        "date": "2026-05-17",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 5,
+        "date": "2026-06-24",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "thong-reo-pine-lodge",
+    "name": "Thông Reo Pine Lodge",
+    "type": "homestay",
+    "city": "Đà Lạt",
+    "area": "Phường 10",
+    "address": "Phường 10, Đà Lạt",
+    "stars": 0,
+    "pricePerNight": 400000,
+    "rating": 4.8,
+    "reviewCount": 498,
+    "description": "Nhà gỗ thông trên đồi nhìn xuống thung lũng sương mù. Mỗi phòng có lò sưởi, ban công riêng và trà atiso nóng mỗi sáng. Cách Hồ Xuân Hương 10 phút đi xe.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Lò sưởi",
+      "Bữa sáng",
+      "Chỗ đỗ xe",
+      "BBQ"
+    ],
+    "tags": [
+      "Săn mây",
+      "Lãng mạn"
+    ],
+    "images": [
+      "1502672260266-1c1ef2d93688",
+      "1631049307264-da0ec9d70304",
+      "1493809842364-78817add7ffb",
+      "1582719478250-c89cae4dc85b"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 720000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 1010000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng tập thể (dorm)",
+        "bed": "4 giường tầng",
+        "capacity": 4,
+        "size": 30,
+        "price": 400000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 5,
+        "date": "2026-05-13",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 5,
+        "date": "2026-06-20",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      },
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 4,
+        "date": "2026-07-27",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "dalat-hillside-boutique",
+    "name": "Dalat Hillside Boutique",
+    "type": "hotel",
+    "city": "Đà Lạt",
+    "area": "Phường 3",
+    "address": "Phường 3, Đà Lạt",
+    "stars": 4,
+    "pricePerNight": 1150000,
+    "rating": 4.5,
+    "reviewCount": 640,
+    "description": "Khách sạn boutique phong cách Pháp với 42 phòng, sân vườn hoa cẩm tú cầu và quán cà phê rang xay tại chỗ. Gần chợ Đà Lạt và quảng trường Lâm Viên.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Nhà hàng",
+      "Lễ tân 24/7",
+      "Chỗ đỗ xe"
+    ],
+    "tags": [
+      "Kiến trúc Pháp",
+      "Gần chợ"
+    ],
+    "images": [
+      "1445019980597-93fa8acb246c",
+      "1631049307264-da0ec9d70304",
+      "1595576508898-0ad5c879a061",
+      "1571003123894-1f0594d2b5d9"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1150000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1290000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 1900000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 5,
+        "date": "2026-06-16",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 4,
+        "date": "2026-07-23",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 5,
+        "date": "2026-08-03",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "hoan-kiem-heritage-hotel",
+    "name": "Hoàn Kiếm Heritage Hotel",
+    "type": "hotel",
+    "city": "Hà Nội",
+    "area": "Hoàn Kiếm",
+    "address": "Hoàn Kiếm, Hà Nội",
+    "stars": 4,
+    "pricePerNight": 1450000,
+    "rating": 4.7,
+    "reviewCount": 1530,
+    "description": "Nằm trên phố Hàng Bạc giữa lòng phố cổ, khách sạn kết hợp kiến trúc Đông Dương với tiện nghi hiện đại. Từ nhà hàng tầng thượng có thể ngắm trọn Hồ Gươm.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Nhà hàng",
+      "Lễ tân 24/7",
+      "Đưa đón sân bay"
+    ],
+    "tags": [
+      "Phố cổ",
+      "View hồ"
+    ],
+    "images": [
+      "1564501049412-61c2a3083791",
+      "1505693416388-ac5ce068fe85",
+      "1591088398332-8a7791972843",
+      "1455587734955-081b22074882"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1450000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1620000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2390000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 4,
+        "date": "2026-07-19",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 5,
+        "date": "2026-08-26",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      },
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 5,
+        "date": "2026-09-06",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "tay-ho-lakeview-apartment",
+    "name": "Tây Hồ Lakeview Apartment",
+    "type": "homestay",
+    "city": "Hà Nội",
+    "area": "Tây Hồ",
+    "address": "Tây Hồ, Hà Nội",
+    "stars": 0,
+    "pricePerNight": 890000,
+    "rating": 4.6,
+    "reviewCount": 287,
+    "description": "Căn hộ 1 phòng ngủ đầy đủ bếp, máy giặt và ban công nhìn ra Hồ Tây. Phù hợp khách lưu trú dài ngày hoặc làm việc từ xa với bàn làm việc rộng và mạng tốc độ cao.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bếp riêng",
+      "Máy giặt",
+      "Điều hòa",
+      "Bàn làm việc"
+    ],
+    "tags": [
+      "Ở dài ngày",
+      "View hồ"
+    ],
+    "images": [
+      "1484154218962-a197022b5858",
+      "1595576508898-0ad5c879a061",
+      "1568605114967-8130f3a36994",
+      "1618773928121-c32242e63f39"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 890000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 1250000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 5,
+        "date": "2026-08-22",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 5,
+        "date": "2026-09-02",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 4,
+        "date": "2026-01-09",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "saigon-skyline-hotel",
+    "name": "Saigon Skyline Hotel",
+    "type": "hotel",
+    "city": "TP. Hồ Chí Minh",
+    "area": "Quận 1",
+    "address": "Quận 1, TP. Hồ Chí Minh",
+    "stars": 5,
+    "pricePerNight": 1690000,
+    "rating": 4.6,
+    "reviewCount": 2104,
+    "description": "Khách sạn 5 sao trên đường Đồng Khởi với 260 phòng, hồ bơi tầng 25 và rooftop bar nổi tiếng. Đi bộ tới Nhà thờ Đức Bà, Bưu điện Thành phố và phố đi bộ Nguyễn Huệ.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Spa",
+      "Phòng gym",
+      "Nhà hàng",
+      "Lễ tân 24/7"
+    ],
+    "tags": [
+      "Trung tâm",
+      "Rooftop"
+    ],
+    "images": [
+      "1584132967334-10e028bd69f7",
+      "1595576508898-0ad5c879a061",
+      "1590490360182-c33d57733427",
+      "1542314831-068cd1dbfeeb"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1690000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1890000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2790000
+      },
+      {
+        "id": "r4",
+        "name": "Suite hướng toàn cảnh",
+        "bed": "1 giường King + sofa",
+        "capacity": 3,
+        "size": 60,
+        "price": 3890000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 5,
+        "date": "2026-09-25",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      },
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 4,
+        "date": "2026-01-05",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 5,
+        "date": "2026-02-12",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "thao-dien-garden-house",
+    "name": "Thảo Điền Garden House",
+    "type": "homestay",
+    "city": "TP. Hồ Chí Minh",
+    "area": "Thủ Đức",
+    "address": "Thủ Đức, TP. Hồ Chí Minh",
+    "stars": 0,
+    "pricePerNight": 950000,
+    "rating": 4.7,
+    "reviewCount": 176,
+    "description": "Nhà vườn yên tĩnh ở Thảo Điền với hồ bơi nhỏ và cây xanh phủ kín. Xung quanh có nhiều quán cà phê, nhà hàng quốc tế và chỉ 15 phút đi xe vào Quận 1.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bếp chung",
+      "Điều hòa",
+      "Sân vườn"
+    ],
+    "tags": [
+      "Xanh mát",
+      "Yên tĩnh"
+    ],
+    "images": [
+      "1600585154340-be6161a56a0c",
+      "1582719478250-c89cae4dc85b",
+      "1510798831971-661eb04b3739",
+      "1631049307264-da0ec9d70304"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 950000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 1330000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 4,
+        "date": "2026-01-01",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      },
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 5,
+        "date": "2026-02-08",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      },
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 5,
+        "date": "2026-03-15",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "nha-trang-bay-resort",
+    "name": "Nha Trang Bay Resort",
+    "type": "hotel",
+    "city": "Nha Trang",
+    "area": "Lộc Thọ",
+    "address": "Lộc Thọ, Nha Trang",
+    "stars": 5,
+    "pricePerNight": 1590000,
+    "rating": 4.5,
+    "reviewCount": 976,
+    "description": "Resort nằm trên đường Trần Phú với bãi tắm riêng, 3 hồ bơi và câu lạc bộ trẻ em. Mỗi sáng có buffet hải sản và tour lặn ngắm san hô Hòn Mun theo yêu cầu.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bãi biển riêng",
+      "Spa",
+      "Bữa sáng",
+      "Khu vui chơi trẻ em"
+    ],
+    "tags": [
+      "Sát biển",
+      "Gia đình"
+    ],
+    "images": [
+      "1571003123894-1f0594d2b5d9",
+      "1582719478250-c89cae4dc85b",
+      "1618773928121-c32242e63f39",
+      "1571896349842-33c89424de2d"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1590000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1780000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2620000
+      },
+      {
+        "id": "r4",
+        "name": "Suite hướng toàn cảnh",
+        "bed": "1 giường King + sofa",
+        "capacity": 3,
+        "size": 60,
+        "price": 3660000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 5,
+        "date": "2026-02-04",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 5,
+        "date": "2026-03-11",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      },
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 4,
+        "date": "2026-04-18",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "hon-chong-sea-breeze",
+    "name": "Hòn Chồng Sea Breeze",
+    "type": "homestay",
+    "city": "Nha Trang",
+    "area": "Vĩnh Phước",
+    "address": "Vĩnh Phước, Nha Trang",
+    "stars": 0,
+    "pricePerNight": 590000,
+    "rating": 4.4,
+    "reviewCount": 152,
+    "description": "Homestay ấm cúng do một cặp vợ chồng trẻ quản lý, gần danh thắng Hòn Chồng. Phòng sạch sẽ, sân thượng hóng gió biển và cho mượn xe máy miễn phí khi lưu trú 3 đêm.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Điều hòa",
+      "Cho thuê xe máy",
+      "Sân thượng"
+    ],
+    "tags": [
+      "Giá tốt",
+      "Gần biển"
+    ],
+    "images": [
+      "1568605114967-8130f3a36994",
+      "1611892440504-42a792e24d32",
+      "1522708323590-d24dbb6b0267",
+      "1566665797739-1674de7a421a"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 590000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 830000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 5,
+        "date": "2026-03-07",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 4,
+        "date": "2026-04-14",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 5,
+        "date": "2026-05-21",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "phu-quoc-sunset-villa",
+    "name": "Phú Quốc Sunset Villa",
+    "type": "hotel",
+    "city": "Phú Quốc",
+    "area": "Dương Đông",
+    "address": "Dương Đông, Phú Quốc",
+    "stars": 5,
+    "pricePerNight": 2350000,
+    "rating": 4.9,
+    "reviewCount": 688,
+    "description": "Khu villa hướng biển Tây, nơi ngắm hoàng hôn đẹp nhất đảo. Mỗi villa có hồ bơi riêng, quản gia 24/7 và bữa tối BBQ hải sản trên bãi cát.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi riêng",
+      "Quản gia",
+      "Spa",
+      "Đưa đón sân bay",
+      "Bãi biển riêng"
+    ],
+    "tags": [
+      "Hoàng hôn",
+      "Trăng mật"
+    ],
+    "images": [
+      "1566073771259-6a8506099945",
+      "1611892440504-42a792e24d32",
+      "1631049307264-da0ec9d70304",
+      "1445019980597-93fa8acb246c"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 2350000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 2630000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 3880000
+      },
+      {
+        "id": "r4",
+        "name": "Suite hướng toàn cảnh",
+        "bed": "1 giường King + sofa",
+        "capacity": 3,
+        "size": 60,
+        "price": 5400000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 4,
+        "date": "2026-04-10",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      },
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 5,
+        "date": "2026-05-17",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 5,
+        "date": "2026-06-24",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "ham-ninh-fishing-village-stay",
+    "name": "Hàm Ninh Fishing Village Stay",
+    "type": "homestay",
+    "city": "Phú Quốc",
+    "area": "Hàm Ninh",
+    "address": "Hàm Ninh, Phú Quốc",
+    "stars": 0,
+    "pricePerNight": 520000,
+    "rating": 4.5,
+    "reviewCount": 98,
+    "description": "Nhà sàn gỗ ven làng chài Hàm Ninh, sáng dậy xem ghe về và ăn ghẹ hấp ngay tại cầu cảng. Trải nghiệm đời sống ngư dân thật sự, cách xa khu du lịch đông đúc.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Tour câu cá",
+      "Cho thuê xe máy"
+    ],
+    "tags": [
+      "Làng chài",
+      "Trải nghiệm địa phương"
+    ],
+    "images": [
+      "1510798831971-661eb04b3739",
+      "1578683010236-d716f9a3f461",
+      "1560448204-e02f11c3d0e2",
+      "1591088398332-8a7791972843"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 520000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 730000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 5,
+        "date": "2026-05-13",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      },
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 5,
+        "date": "2026-06-20",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      },
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 4,
+        "date": "2026-07-27",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "sa-pa-cloud-terrace",
+    "name": "Sa Pa Cloud Terrace",
+    "type": "homestay",
+    "city": "Sa Pa",
+    "area": "Tả Van",
+    "address": "Tả Van, Sa Pa",
+    "stars": 0,
+    "pricePerNight": 370000,
+    "rating": 4.8,
+    "reviewCount": 421,
+    "description": "Homestay của gia đình người Giáy giữa ruộng bậc thang Tả Van. Phòng có cửa kính lớn nhìn thẳng ra dãy Hoàng Liên Sơn, tối quây quần bên bếp lửa và rượu táo mèo.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Bữa tối gia đình",
+      "Dẫn đường trekking",
+      "Lò sưởi"
+    ],
+    "tags": [
+      "Ruộng bậc thang",
+      "Trekking"
+    ],
+    "images": [
+      "1499793983690-e29da59ef1c2",
+      "1631049307264-da0ec9d70304",
+      "1513694203232-719a280e022f",
+      "1582719478250-c89cae4dc85b"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 680000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 950000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng tập thể (dorm)",
+        "bed": "4 giường tầng",
+        "capacity": 4,
+        "size": 30,
+        "price": 370000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 5,
+        "date": "2026-06-16",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      },
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 4,
+        "date": "2026-07-23",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 5,
+        "date": "2026-08-03",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "fansipan-mountain-hotel",
+    "name": "Fansipan Mountain Hotel",
+    "type": "hotel",
+    "city": "Sa Pa",
+    "area": "Thị trấn",
+    "address": "Thị trấn, Sa Pa",
+    "stars": 4,
+    "pricePerNight": 1350000,
+    "rating": 4.6,
+    "reviewCount": 733,
+    "description": "Khách sạn 4 sao ngay trung tâm thị trấn, gần ga cáp treo Fansipan Legend. Có bể bơi nước nóng trong nhà, spa thảo dược người Dao đỏ và nhà hàng lẩu cá hồi.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi nước nóng",
+      "Spa",
+      "Bữa sáng",
+      "Nhà hàng"
+    ],
+    "tags": [
+      "Gần cáp treo",
+      "Nghỉ dưỡng"
+    ],
+    "images": [
+      "1571896349842-33c89424de2d",
+      "1631049307264-da0ec9d70304",
+      "1595576508898-0ad5c879a061",
+      "1584132967334-10e028bd69f7"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1350000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1510000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2230000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 4,
+        "date": "2026-07-19",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      },
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 5,
+        "date": "2026-08-26",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      },
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 5,
+        "date": "2026-09-06",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "hue-imperial-garden-house",
+    "name": "Huế Imperial Garden House",
+    "type": "homestay",
+    "city": "Huế",
+    "area": "Kim Long",
+    "address": "Kim Long, Huế",
+    "stars": 0,
+    "pricePerNight": 340000,
+    "rating": 4.7,
+    "reviewCount": 203,
+    "description": "Nhà rường cổ trong khu vườn Kim Long, cách Đại Nội 2km. Chủ nhà là nghệ nhân ẩm thực cung đình, có lớp nấu bánh bèo, bánh nậm cho khách vào cuối tuần.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Lớp nấu ăn",
+      "Cho thuê xe đạp",
+      "Sân vườn"
+    ],
+    "tags": [
+      "Nhà rường",
+      "Ẩm thực"
+    ],
+    "images": [
+      "1502672260266-1c1ef2d93688",
+      "1566665797739-1674de7a421a",
+      "1493809842364-78817add7ffb",
+      "1611892440504-42a792e24d32"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 610000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 850000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng tập thể (dorm)",
+        "bed": "4 giường tầng",
+        "capacity": 4,
+        "size": 30,
+        "price": 340000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 5,
+        "date": "2026-08-22",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 5,
+        "date": "2026-09-02",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      },
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 4,
+        "date": "2026-01-09",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "perfume-river-hotel",
+    "name": "Perfume River Hotel",
+    "type": "hotel",
+    "city": "Huế",
+    "area": "Vĩnh Ninh",
+    "address": "Vĩnh Ninh, Huế",
+    "stars": 4,
+    "pricePerNight": 990000,
+    "rating": 4.4,
+    "reviewCount": 587,
+    "description": "Khách sạn bên bờ sông Hương với view cầu Trường Tiền, có thuyền rồng riêng đưa khách nghe ca Huế buổi tối. Phòng rộng, sạch, nhân viên nhiệt tình.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Nhà hàng",
+      "Lễ tân 24/7",
+      "Đưa đón sân bay"
+    ],
+    "tags": [
+      "View sông",
+      "Ca Huế"
+    ],
+    "images": [
+      "1445019980597-93fa8acb246c",
+      "1566665797739-1674de7a421a",
+      "1582719478250-c89cae4dc85b",
+      "1571003123894-1f0594d2b5d9"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 990000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1110000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 1630000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 5,
+        "date": "2026-09-25",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 4,
+        "date": "2026-01-05",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 5,
+        "date": "2026-02-12",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "ha-long-pearl-bay-hotel",
+    "name": "Hạ Long Pearl Bay Hotel",
+    "type": "hotel",
+    "city": "Hạ Long",
+    "area": "Bãi Cháy",
+    "address": "Bãi Cháy, Hạ Long",
+    "stars": 4,
+    "pricePerNight": 1290000,
+    "rating": 4.5,
+    "reviewCount": 941,
+    "description": "Khách sạn nhìn ra vịnh Hạ Long, gần cáp treo Nữ Hoàng và Sun World. Hỗ trợ đặt tour du thuyền ngủ đêm trên vịnh với giá ưu đãi cho khách lưu trú.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bữa sáng",
+      "Đặt tour",
+      "Phòng gym"
+    ],
+    "tags": [
+      "View vịnh",
+      "Gia đình"
+    ],
+    "images": [
+      "1564501049412-61c2a3083791",
+      "1595576508898-0ad5c879a061",
+      "1590490360182-c33d57733427",
+      "1455587734955-081b22074882"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1290000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1440000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2130000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 4,
+        "date": "2026-01-01",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 5,
+        "date": "2026-02-08",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      },
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 5,
+        "date": "2026-03-15",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "trang-an-rice-field-bungalow",
+    "name": "Tràng An Rice Field Bungalow",
+    "type": "homestay",
+    "city": "Ninh Bình",
+    "area": "Hoa Lư",
+    "address": "Hoa Lư, Ninh Bình",
+    "stars": 0,
+    "pricePerNight": 750000,
+    "rating": 4.9,
+    "reviewCount": 318,
+    "description": "Bungalow mái lá giữa cánh đồng lúa và núi đá vôi Tràng An. Có hồ bơi nhìn ra núi, xe đạp miễn phí để đạp tới Hang Múa và chùa Bái Đính.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bữa sáng",
+      "Cho thuê xe đạp",
+      "Sân vườn"
+    ],
+    "tags": [
+      "Núi đá vôi",
+      "Đồng lúa"
+    ],
+    "images": [
+      "1484154218962-a197022b5858",
+      "1582719478250-c89cae4dc85b",
+      "1568605114967-8130f3a36994",
+      "1631049307264-da0ec9d70304"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 750000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 1050000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 5,
+        "date": "2026-02-04",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 5,
+        "date": "2026-03-11",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 4,
+        "date": "2026-04-18",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "vung-tau-front-beach-hotel",
+    "name": "Vũng Tàu Front Beach Hotel",
+    "type": "hotel",
+    "city": "Vũng Tàu",
+    "area": "Bãi Trước",
+    "address": "Bãi Trước, Vũng Tàu",
+    "stars": 3,
+    "pricePerNight": 890000,
+    "rating": 4.3,
+    "reviewCount": 1102,
+    "description": "Khách sạn 3 sao trên đường Quang Trung, cách Bãi Trước 50m và tượng Chúa Kitô 10 phút đi xe. Giá hợp lý, phòng gia đình rộng, phù hợp chuyến đi cuối tuần từ Sài Gòn.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Bữa sáng",
+      "Lễ tân 24/7",
+      "Chỗ đỗ xe"
+    ],
+    "tags": [
+      "Giá tốt",
+      "Cuối tuần"
+    ],
+    "images": [
+      "1584132967334-10e028bd69f7",
+      "1582719478250-c89cae4dc85b",
+      "1618773928121-c32242e63f39",
+      "1542314831-068cd1dbfeeb"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 890000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1000000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 1470000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Lan Chi",
+        "from": "Hải Phòng",
+        "rating": 5,
+        "date": "2026-03-07",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      },
+      {
+        "author": "Đức Thịnh",
+        "from": "Huế",
+        "rating": 4,
+        "date": "2026-04-14",
+        "comment": "Vị trí tuyệt vời, đi đâu cũng tiện. Cách âm hơi kém một chút nhưng tổng thể rất ổn."
+      },
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 5,
+        "date": "2026-05-21",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "long-hai-beachfront-homestay",
+    "name": "Long Hải Beachfront Homestay",
+    "type": "homestay",
+    "city": "Vũng Tàu",
+    "area": "Long Hải",
+    "address": "Long Hải, Vũng Tàu",
+    "stars": 0,
+    "pricePerNight": 1100000,
+    "rating": 4.6,
+    "reviewCount": 141,
+    "description": "Nguyên căn 3 phòng ngủ sát biển Long Hải, có bếp đầy đủ, sân nướng BBQ và karaoke. Lý tưởng cho nhóm 8–10 người hoặc đại gia đình.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Nguyên căn",
+      "Bếp riêng",
+      "BBQ",
+      "Chỗ đỗ xe"
+    ],
+    "tags": [
+      "Nhóm đông",
+      "Sát biển"
+    ],
+    "images": [
+      "1600585154340-be6161a56a0c",
+      "1611892440504-42a792e24d32",
+      "1510798831971-661eb04b3739",
+      "1566665797739-1674de7a421a"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 1100000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 1540000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Sarah K.",
+        "from": "Úc",
+        "rating": 4,
+        "date": "2026-04-10",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      },
+      {
+        "author": "Kenji T.",
+        "from": "Nhật Bản",
+        "rating": 5,
+        "date": "2026-05-17",
+        "comment": "Phòng hơi nhỏ nhưng sạch và ấm cúng, trải nghiệm địa phương rất thú vị."
+      },
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 5,
+        "date": "2026-06-24",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "quy-nhon-eo-gio-retreat",
+    "name": "Quy Nhơn Eo Gió Retreat",
+    "type": "hotel",
+    "city": "Quy Nhơn",
+    "area": "Nhơn Lý",
+    "address": "Nhơn Lý, Quy Nhơn",
+    "stars": 4,
+    "pricePerNight": 1480000,
+    "rating": 4.8,
+    "reviewCount": 265,
+    "description": "Khu nghỉ dưỡng nhỏ trên vách đá gần Eo Gió, mọi phòng đều có ban công hướng biển. Có tour lặn ngắm san hô Kỳ Co và bữa tối hải sản ngay trên gành đá.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bữa sáng",
+      "Nhà hàng",
+      "Đặt tour"
+    ],
+    "tags": [
+      "Hoang sơ",
+      "View biển"
+    ],
+    "images": [
+      "1571003123894-1f0594d2b5d9",
+      "1611892440504-42a792e24d32",
+      "1631049307264-da0ec9d70304",
+      "1571896349842-33c89424de2d"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng Deluxe giường đôi",
+        "bed": "1 giường đôi lớn",
+        "capacity": 2,
+        "size": 28,
+        "price": 1480000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng Superior 2 giường",
+        "bed": "2 giường đơn",
+        "capacity": 2,
+        "size": 30,
+        "price": 1660000
+      },
+      {
+        "id": "r3",
+        "name": "Phòng Gia đình",
+        "bed": "2 giường đôi",
+        "capacity": 4,
+        "size": 42,
+        "price": 2440000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ngọc Hân",
+        "from": "Nha Trang",
+        "rating": 5,
+        "date": "2026-05-13",
+        "comment": "Hồ bơi đẹp, view xịn, giá xứng đáng. Check-in nhanh chưa tới 5 phút."
+      },
+      {
+        "author": "Minh Anh",
+        "from": "Hà Nội",
+        "rating": 5,
+        "date": "2026-06-20",
+        "comment": "Great location and friendly staff. Breakfast was excellent."
+      },
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 4,
+        "date": "2026-07-27",
+        "comment": "Phòng sạch sẽ, nhân viên lễ tân rất chu đáo, bữa sáng nhiều món. Sẽ quay lại!"
+      }
+    ],
+    "freeCancellation": false,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  },
+  {
+    "id": "mui-ne-sand-dune-house",
+    "name": "Mũi Né Sand Dune House",
+    "type": "homestay",
+    "city": "Phan Thiết",
+    "area": "Mũi Né",
+    "address": "Mũi Né, Phan Thiết",
+    "stars": 0,
+    "pricePerNight": 560000,
+    "rating": 4.5,
+    "reviewCount": 233,
+    "description": "Homestay phong cách Địa Trung Hải gần đồi cát bay Mũi Né. Chủ nhà hỗ trợ đặt xe jeep ngắm bình minh trên đồi cát trắng và lướt ván diều.",
+    "amenities": [
+      "Wi-Fi miễn phí",
+      "Hồ bơi",
+      "Bữa sáng",
+      "Đặt tour",
+      "Cho thuê xe máy"
+    ],
+    "tags": [
+      "Đồi cát",
+      "Lướt ván"
+    ],
+    "images": [
+      "1568605114967-8130f3a36994",
+      "1578683010236-d716f9a3f461",
+      "1522708323590-d24dbb6b0267",
+      "1591088398332-8a7791972843"
+    ],
+    "rooms": [
+      {
+        "id": "r1",
+        "name": "Phòng đôi tiêu chuẩn",
+        "bed": "1 giường đôi",
+        "capacity": 2,
+        "size": 20,
+        "price": 560000
+      },
+      {
+        "id": "r2",
+        "name": "Phòng gia đình",
+        "bed": "1 giường đôi + 1 giường đơn",
+        "capacity": 3,
+        "size": 28,
+        "price": 780000
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Hoàng Nam",
+        "from": "TP. Hồ Chí Minh",
+        "rating": 5,
+        "date": "2026-06-16",
+        "comment": "Lovely host and a very authentic stay. Highly recommended."
+      },
+      {
+        "author": "Thu Trang",
+        "from": "Đà Nẵng",
+        "rating": 4,
+        "date": "2026-07-23",
+        "comment": "Chủ nhà dễ thương như người nhà, chỉ mình nhiều quán ăn ngon mà khách du lịch ít biết."
+      },
+      {
+        "author": "Quốc Bảo",
+        "from": "Cần Thơ",
+        "rating": 5,
+        "date": "2026-08-03",
+        "comment": "Không gian yên bình, decor xinh, sáng ra có cà phê và bánh mì nóng. Rất đáng tiền!"
+      }
+    ],
+    "freeCancellation": true,
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00"
+  }
+]
